@@ -1,2 +1,2 @@
 # OSS
-asldkfj;afadflk
+"멀고도 험한 깃허브의 길"
